@@ -10,9 +10,9 @@ created while reading the guide
                    |            |       |
                    |            |       |
                     |   _--    |       |
- Hey bro,           _| =-.    |.-.    |
+                    _| =-.    |.-.    |
                     o|/o/       _.   |
-how to use github?  /  ~          \ |
+                    /  ~          \ |
                   (____@)  ___~    |
                      |_===~~~.`    |
                   _______.--~     |
@@ -20,6 +20,6 @@ how to use github?  /  ~          \ |
                            \      |
                          __/-___-- -__
                         /            __\
-                       /-| Metallica|| |
+                       /-|          || |
                       / /|          || |
                       **some text here**
