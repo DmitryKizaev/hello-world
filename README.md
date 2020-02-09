@@ -1,5 +1,5 @@
 # hello-world
-created while reading the guide
+created while reading the guide how to use GitHub
 
                    _------__--___.__.
                  /            `  `    \
